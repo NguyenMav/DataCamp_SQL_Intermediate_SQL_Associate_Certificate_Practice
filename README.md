@@ -9,6 +9,7 @@ You are working with the customer support team to provide data to managers to he
 ## Data
 
 The following schema diagram shows the tables available.
+
 ![support_db](https://github.com/NguyenMav/DataCamp_SQL_Advance_SQL_Associate_Certificate_Practice/assets/149219810/e90981bd-5660-4894-8b88-9aa8ebfd7426)
 
 # Task 1
